@@ -1,0 +1,13 @@
+body {
+  background-color: azure;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+}
